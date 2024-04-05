@@ -120,4 +120,4 @@ Summary of the insights gained into the chess Game performance:
 
 ### Thank you for reading.
 
-I am open for entry-level data analyst role.
+I am open for entry-level to mid-level data analyst role.
