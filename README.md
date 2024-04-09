@@ -11,7 +11,7 @@ Dahel Consultant Techies Internship: This is a project that entails the analysis
 
 ## Introduction
 
-This is chess game performance analysis. It is done by analyzing data from  the chess game table which comprises of ranking_date column, rank	column, name column, title column, country column, rating column, games column, and birth_year column. I used Excel to get an overview of the dataset before importing it into Power BI where the actual analysis was carried out. 
+This is chess game performance analysis. It is done by analyzing data from  the chess game table which comprises of ranking_date, rank, name, title, country, rating, games, and birth_year fields. I used Excel to get an overview of the dataset before importing it into Power BI where the actual analysis was carried out. 
 
 ## Problem Statement
 
@@ -76,7 +76,7 @@ The dataset for the work is gotten from Dahel Consultant Techies. It consists of
 ## Data Analysis and Visualization:
 
 Several expressions and functions were made to arrive at the desired KPI or Metrics.
-I arrived at a report with a single dashboard consisting of different visuals such as bar chart, doughnut chart, line chart, slicer, and KPIs, giving the summary of the insights gained into the company's performance.
+I arrived at a report with a single dashboard consisting of different visuals such as bar chart, doughnut chart, line chart, slicer, and KPIs, giving the summary of the insights gained into the game performance.
 
 ## Features of the Report:
 The dashboard conveys information about the following key areas:
